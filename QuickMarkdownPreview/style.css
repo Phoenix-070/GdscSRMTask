@@ -43,13 +43,13 @@ body {
 
 .toolbar button {
     padding: 5px 10px;
-    background-color: #a52552; /* Change to your desired button color */
-    color: #fff; /* Text color for buttons */
+    background-color: #a52552; 
+    color: #fff; 
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 .toolbar button:hover {
-    background-color: #22743a; /* Change to hover color */
+    background-color: #22743a;
 }
